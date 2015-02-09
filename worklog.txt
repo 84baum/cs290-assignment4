@@ -1,0 +1,21 @@
+Start: Mon, 2 Feb 2015 21:27:15 -0800 
+End: Tue, 3 Feb 2015 00:25:13 -0800 
+Tasks: Worked input validation for multtable and storing GET values in an array to be
+iterated through for validation
+
+Start: Tue, 3 Feb 2015 08:05:27 -0800 
+End: Tue, 3 Feb 2015 09:17:05 -0800 
+Tasks: Finished multtable input validation
+Worked on and finished table for multtable
+
+Start: Tue, 3 Feb 2015 10:30:25 -0800 
+End: Tue, 3 Feb 2015 11:17:15 -0800 
+Tasks: Starting loopback foreach functions with boolean to check for empty parameters
+
+Start: Tue, 3 Feb 2015 14:19:32 -0800 
+End: Tue, 3 Feb 2015 14:38:36 -0800 
+Tasks: Finished loopback and wrote test file. Started login.
+
+Start: Tue, 3 Feb 2015 18:56:03 -0800 
+End: Tue, 3 Feb 2015 23:15:32 -0800 
+Tasks: Worked out session logic and wrote content2.
